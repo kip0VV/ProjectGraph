@@ -6,8 +6,6 @@ using namespace std;
 
 int main(){
 
-    int a;
-
     struct Variable {
         string name;
         bool selfDepent;
